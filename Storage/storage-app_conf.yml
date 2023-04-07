@@ -1,0 +1,4 @@
+events:
+  hostname: localhost
+  port: 29092
+  topic: events

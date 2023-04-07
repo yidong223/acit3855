@@ -1,0 +1,41 @@
+RECEIVER :: DEBUG – Received event buy with 60edb8da-8fea-41ed-9c39-c2cfee4d5ac7
+RECEIVER :: DEBUG – Received event buy with 106d039e-0434-4b20-97c9-b5fc024112c3
+RECEIVER :: DEBUG – Received event buy with 7bd43cd6-e174-4148-94d6-3ea5e11ebee6
+RECEIVER :: DEBUG – Received event buy with 16728ceb-7342-4cd8-9fb8-10dcf5d507a1
+RECEIVER :: DEBUG – Received response with trace id 16728ceb-7342-4cd8-9fb8-10dcf5d507a1, status code 500
+RECEIVER :: DEBUG – Received event buy with 1e3c3f3d-4cbf-460a-9f2f-f6b7bcdd9d31
+RECEIVER :: DEBUG – Received response with trace id 1e3c3f3d-4cbf-460a-9f2f-f6b7bcdd9d31, status code 500
+RECEIVER :: DEBUG – Received event buy with 8479e116-5974-4ea8-9ff4-a81731e28862
+RECEIVER :: DEBUG – Received response with trace id 8479e116-5974-4ea8-9ff4-a81731e28862, status code 500
+RECEIVER :: DEBUG – Received event buy with d5e83310-1dd0-44ca-aef5-80b103f7c189
+RECEIVER :: DEBUG – Received response with trace id d5e83310-1dd0-44ca-aef5-80b103f7c189, status code 500
+RECEIVER :: DEBUG – Received event sell with d15c5739-e6e8-40ed-ac74-a207cca93015
+RECEIVER :: DEBUG – Received response with trace id d15c5739-e6e8-40ed-ac74-a207cca93015, status code 500
+RECEIVER :: DEBUG – Received event sell with 3bc12148-d6d1-4bbc-b08f-7d6e9cbece75
+RECEIVER :: DEBUG – Received response with trace id 3bc12148-d6d1-4bbc-b08f-7d6e9cbece75, status code 500
+RECEIVER :: DEBUG – Received event sell with e7beb925-d9f5-4644-8ac7-9ab554d0b8d2
+RECEIVER :: DEBUG – Received response with trace id e7beb925-d9f5-4644-8ac7-9ab554d0b8d2, status code 500
+RECEIVER :: DEBUG – Received event sell with 8a6e497d-15d3-405f-b706-5f71611bd2c7
+RECEIVER :: DEBUG – Received response with trace id 8a6e497d-15d3-405f-b706-5f71611bd2c7, status code 500
+RECEIVER :: DEBUG – Received event sell with 216b9868-89f8-406a-882b-a73d6bbe491c
+RECEIVER :: DEBUG – Received response with trace id 216b9868-89f8-406a-882b-a73d6bbe491c, status code 500
+RECEIVER :: DEBUG – Received event sell with 0f020c48-9175-4bf0-87bf-dadec8ae2100
+RECEIVER :: DEBUG – Received response with trace id 0f020c48-9175-4bf0-87bf-dadec8ae2100, status code 500
+RECEIVER :: DEBUG – Received event sell with 5144125f-fa58-4180-b0ad-8c1f6058d4ca
+RECEIVER :: DEBUG – Received response with trace id 5144125f-fa58-4180-b0ad-8c1f6058d4ca, status code 500
+RECEIVER :: DEBUG – Received event sell with 85ec1c21-a084-4d69-a226-5186df5424fc
+RECEIVER :: DEBUG – Received response with trace id 85ec1c21-a084-4d69-a226-5186df5424fc, status code 500
+RECEIVER :: DEBUG – Received event sell with 4b0f478a-f41b-4254-ac82-b47eb62e0a2a
+RECEIVER :: DEBUG – Received response with trace id 4b0f478a-f41b-4254-ac82-b47eb62e0a2a, status code 201
+RECEIVER :: DEBUG – Received event sell with b09fbc26-f5ae-430d-9341-31a88af90761
+RECEIVER :: DEBUG – Received response with trace id b09fbc26-f5ae-430d-9341-31a88af90761, status code 201
+RECEIVER :: DEBUG – Received event sell with e927c49d-471f-4e0c-aa1f-59aa7bb776c2
+RECEIVER :: DEBUG – Received response with trace id e927c49d-471f-4e0c-aa1f-59aa7bb776c2, status code 500
+RECEIVER :: DEBUG – Received event sell with 9fb8355a-73ab-4d6e-8019-46b4866506ff
+RECEIVER :: DEBUG – Received response with trace id 9fb8355a-73ab-4d6e-8019-46b4866506ff, status code 201
+RECEIVER :: DEBUG – Received event sell with 9451f7c3-09ea-401b-ae46-ebd1834cb3b8
+RECEIVER :: DEBUG – Received response with trace id 9451f7c3-09ea-401b-ae46-ebd1834cb3b8, status code 201
+RECEIVER :: DEBUG – Received event sell with fb54dd42-68d8-4179-85dc-f2070d1bdf58
+RECEIVER :: DEBUG – Received response with trace id fb54dd42-68d8-4179-85dc-f2070d1bdf58, status code 201
+RECEIVER :: DEBUG – Received event sell with e048315d-6af2-4efa-9e34-c0199e1f5432
+RECEIVER :: DEBUG – Received response with trace id e048315d-6af2-4efa-9e34-c0199e1f5432, status code 201
